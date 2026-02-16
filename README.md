@@ -10,14 +10,11 @@
  <img align="center" alt="Adriany-python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img align="center" alt="Adriany-python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianypaola3-ui&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianypaola3-ui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+ <div>
+  <a href="https://beacons.ai/adrianypaola3-ui">
+   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=adrianypaola3-ui&show_icons=true&theme=dark&include_a11_commits-true&count_private=true"/>
+   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianypaola3-ui&layout=compact&langs_count=16&theme=dark"/>
+ </div>
 
 ###
 
@@ -28,3 +25,7 @@
 </picture>
 
 ###
+
+<div align="center">
+ <br><p align="center"><b>Visitas</b></p>
+<img src="https://profile-counter.deno.dev/adrianypaola3-ui/count.svg" alt="Key:: Visitor's Count" />
