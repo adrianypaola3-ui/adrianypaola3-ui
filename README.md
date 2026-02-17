@@ -32,10 +32,21 @@
   </a>
 </div>
 
-<div align="right">
-  <img height="470" src="https://i.imgur.com/9Sw3utC.png" />
-</div>
+  <div>
+ 
+## Biografia
 
+   Meu nome é Adriany Paola, tenho 17 anos e nasci em São Paulo - Brasil.
+   Sou estudante da PEI E.E.M.M.D.C. Estou no ultimo ano da escola e no curso 
+   Tecnico de Desenvolvimento de Sistemas e inciante na área de T.I.
+   Meu objetivo e me tornar uma desenvolvedora web. Atualmente focada em Python, HTML e CSS,
+   aprendendo JavaScript e banco de dados. 
+
+  </div>
+
+  <div>
+    <img align="right" height="470" src="https://i.imgur.com/9Sw3utC.png" />
+  </div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianypaola3-ui/adrianypaola3-ui/output/pacman-contribution-graph-dark.svg">
