@@ -7,6 +7,17 @@
 - Fazendo Curso Técnico de Desenvolvimento de Sistemas 2/2 💻🖱️
 - Objetivo: Desenvolvedora Web 🤓
 
+<div>
+ 
+##  💮 Biografia 💮
+
+   Meu nome é Adriany Paola, tenho 17 anos e moro em São Paulo - Brasil.
+   Sou estudante da PEI E.E.M.M.D.C. Estou no ultimo ano da escola e Curso 
+   Tecnico de Desenvolvimento de Sistemas e iniciante na área de T.I.
+   Atualmente focada em Python, HTML e CSS, aprendendo JavaScript e banco de dados. Futuramente pretendo fazer faculdade de T.I. e me tornar uma desenvolvedora web.
+
+  </div>
+
  ## 🤖 Minhas linguagens favoritas 🤖
 
 <div align="left">
@@ -32,21 +43,9 @@
   </a>
 </div>
 
-  <div>
- 
-## Biografia
+<br><br>
 
-   Meu nome é Adriany Paola, tenho 17 anos e nasci em São Paulo - Brasil.
-   Sou estudante da PEI E.E.M.M.D.C. Estou no ultimo ano da escola e no curso 
-   Tecnico de Desenvolvimento de Sistemas e inciante na área de T.I.
-   Meu objetivo e me tornar uma desenvolvedora web. Atualmente focada em Python, HTML e CSS,
-   aprendendo JavaScript e banco de dados. 
-
-  </div>
-
-  <div>
-    <img align="right" height="470" src="https://i.imgur.com/9Sw3utC.png" />
-  </div>
+<div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianypaola3-ui/adrianypaola3-ui/output/pacman-contribution-graph-dark.svg">
@@ -54,6 +53,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adrianypaola3-ui/adrianypaola3-ui/output/pacman-contribution-graph.svg">
 </picture>
 
+</div>
 
 <div align="center">
  <br><p align="center"><b>Visitas</b></p>
