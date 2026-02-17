@@ -1,20 +1,23 @@
 ## Olá pessoal, aqui e a Adriany!!!
+
+**Sobre Mim:**
+
 - 3 ano do Ensino Medio 🏫 
 - Atualmente estudando e aprendendo 📚
 - Fazendo curso tecnico de Desenvolvimento de Sistemas 2/2 💻🖱️
 - Objetivo: Desenvolvedora Web 🤓
-- Minhas tecnologias favoritas:
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Adriany-python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
- <img align="center" alt="Adriany-python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
- <img align="center" alt="Adriany-python" heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ ## Minhas linguagens favoritas 🤖
 
- <div>
-  <a href="https://beacons.ai/adrianypaola3-ui">
-   <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=adrianypaola3-ui&show_icons=true&theme=dark&include_a11_commits-true&count_private=true"/>
-   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianypaola3-ui&layout=compact&langs_count=16&theme=dark"/>
- </div>
+<div>
+ <img width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ <img width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+
+<br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianypaola3-ui)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
