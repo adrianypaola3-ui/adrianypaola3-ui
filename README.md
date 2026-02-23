@@ -9,14 +9,14 @@
 
 ## 📋 Principais Projetos 📋 : 
 Desenvolvido em grupo.
-- The History of games:
-Tecnologias: Python (Flask), HTML e CSS.
+- 🎮 The History of games 🎮:
+Linguagens: Python (Flask), HTML e CSS.
 Website informativo com mini biografias de jogos selecionados e redirecionamento para a plataforma Steam.
-- The History of Free Games
-Tecnologias: Flask, HTML e CSS.
+- 🎮🆓 The History of Free Games 🆓🎮:
+linguagens: Python (Flask), HTML e CSS.
 Plataforma informativa sobre jogos gratuitos, contendo descrições resumidas e links para a Steam.
-- The History of the Snake Game and Its Gameplay
-Tecnologias: Flask, HTML, CSS e Pygame.
+- 🎮🐍 The History of the Snake Game and Its Gameplay 🐍🎮:
+Linguagens: Python (Flask), HTML, CSS e Pygame.
 Website sobre a história do jogo Snake, incluindo desenvolvimento de uma versão jogável em Pygame (apresentada separadamente).
 
 <div>
