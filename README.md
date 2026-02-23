@@ -26,7 +26,7 @@ Website sobre a história do jogo Snake, incluindo desenvolvimento de uma versã
    Meu nome é Adriany Paola, tenho 17 anos e moro em São Paulo - Brasil.
    Sou estudante da PEI E.E.M.M.D.C. Estou no ultimo ano da escola e Curso 
    Tecnico de Desenvolvimento de Sistemas e iniciante na área de T.I.
-   Atualmente focada em Python, HTML e CSS, aprendendo JavaScript e banco de dados. Futuramente pretendo fazer faculdade de T.I. e me tornar uma desenvolvedora web.
+   Atualmente focada em Python, HTML e CSS, aprendendo JavaScript e banco de dados. Futuramente pretendo fazer faculdade de ADS e me tornar uma desenvolvedora web.
 
   </div>
 
