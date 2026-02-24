@@ -1,4 +1,4 @@
-i## Olá pessoal, aqui e a Adriany!!!
+## Olá pessoal, aqui e a Adriany!!!
 
 ## 📖 Sobre Mim 📖
 
