@@ -4,6 +4,7 @@
 
 - 3 ano do Ensino Medio 🏫 
 - Atualmente estudando e aprendendo 📚
+- Estudando JavaScript e Banco de dados ✍️
 - Fazendo Curso Técnico de Desenvolvimento de Sistemas 2/2 💻🖱️
 - Objetivo: Desenvolvedora Web 🤓
 
