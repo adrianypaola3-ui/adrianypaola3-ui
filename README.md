@@ -20,14 +20,6 @@ Linguagens: Python (Flask), HTML, CSS e Pygame.
 Website sobre a história do jogo Snake, incluindo desenvolvimento de uma versão jogável em Pygame (apresentada separadamente).
 
 <div>
- 
-##  💮 Biografia 💮
-
-   Meu nome é Adriany Paola, tenho 17 anos e moro em São Paulo - Brasil.
-   Sou estudante da PEI E.E.M.M.D.C. Estou no ultimo ano da escola e Curso 
-   Tecnico de Desenvolvimento de Sistemas, atualmente focada em Python, HTML e CSS, aprendendo JavaScript e banco de dados. Futuramente pretendo fazer faculdade de ADS e depois de concluir, fazer Tecnologo em Desenvolvimento Web e, por fim me tornar
-   uma desenvolvedora web.
-
   </div>
 
  ## 🤖 Minhas linguagens favoritas 🤖
@@ -44,10 +36,6 @@ Website sobre a história do jogo Snake, incluindo desenvolvimento de uma versã
   <div align="left">
   <a href="https://www.linkedin.com/in/adriany-paola-a948ab369" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-
-  <a href="https://www.instagram.com/adriany__pgm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
 
   <a href="mailto:adrianypaola3@gmail.com">
