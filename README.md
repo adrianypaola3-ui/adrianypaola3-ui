@@ -8,19 +8,6 @@
 - Fazendo Curso Técnico de Desenvolvimento de Sistemas 2/2 💻🖱️
 - Objetivo: Desenvolvedora Web 🤓
 
-## 📋 Principais Projetos 📋 : 
-Desenvolvido em grupo.
-- 🎮 Games and their Stories 🎮:
-Linguagens: Python (Flask), HTML e CSS.
-Website informativo com mini biografias de jogos selecionados e redirecionamento para a plataforma Steam.
-- 🎮🆓 Free Games 🆓🎮:
-linguagens: Python (Flask), HTML e CSS.
-Plataforma informativa sobre jogos gratuitos, contendo descrições resumidas e links para a Steam. Ele é a segunda pagina do site principal
-- 🎮🐍 The History of the Snake Game and Its Gameplay 🐍🎮:
-Linguagens: Python (Flask), HTML, CSS e Pygame.
-Website sobre a história do jogo Snake, incluindo desenvolvimento de uma versão jogável em Pygame (apresentada separadamente).
-
-<div>
   </div>
 
  ## 🤖 Minhas linguagens favoritas 🤖
